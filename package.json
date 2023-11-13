@@ -1,0 +1,19 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "A basic Todo app to practice Node js and express",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "None"
+  ],
+  "author": "Puranjay Mishra",
+  "license": "ISC"
+}
